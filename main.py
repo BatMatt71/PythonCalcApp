@@ -4,7 +4,7 @@
 # Purpose:
 # Assignment No2 Programming principles
 
-#calculator.py
+#main.py
 
 #Import functions
 import inputData
