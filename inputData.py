@@ -1,3 +1,9 @@
+# Author:
+# Date: 
+# Program Name: 
+# Purpose:
+# Assignment No2 Programming principles
+
 import calculator
 
 def MathOption(firstNum):
