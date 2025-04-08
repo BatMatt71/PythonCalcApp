@@ -1,7 +1,7 @@
-# Author:
-# Date: 
-# Program Name: 
-# Purpose:
+# Author: George Matei Macineanu
+# Date: 19/03/2025
+# Program Name: main.py
+# Purpose: bringing together the other files together and outputting results
 # Assignment No2 Programming principles
 
 #main.py
