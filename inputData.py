@@ -1,7 +1,7 @@
-# Author:
-# Date: 
-# Program Name: 
-# Purpose:
+# Author: George Matei Macineanu
+# Date: 19/03/2025
+# Program Name: inputData.py
+# Purpose: lets the user input the data and select the math option to operate
 # Assignment No2 Programming principles
 
 import calculator
