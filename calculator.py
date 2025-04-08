@@ -1,7 +1,7 @@
-# Author:
-# Date: 
-# Program Name: 
-# Purpose:
+# Author: George Matei Macineanu
+# Date: 19/03/2025
+# Program Name: calculator.py
+# Purpose: stores all the mathematical functions
 # Assignment No2 Programming principles
 
 #options.py
